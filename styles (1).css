@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero .btn {
+  text-decoration: none;
+  padding: 15px 30px;
+  background: #fff;
+  color: #ff6161;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+
+section {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+#story {
+  background-color: #fff;
+}
+
+#story .timeline {
+  margin-top: 20px;
+}
+
+#story .event {
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
+
+#proposal {
+  background: #ff6161;
+  color: white;
+}
+
+#proposal .buttons .btn {
+  text-decoration: none;
+  padding: 15px 30px;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+
+#proposal .yes {
+  background: #fff;
+  color: #ff6161;
+}
+
+#proposal .maybe {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+footer {
+  padding: 20px;
+  background: #333;
+  color: white;
+  text-align: center;
+}
